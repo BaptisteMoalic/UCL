@@ -1,6 +1,6 @@
-Some projects I've done during my time at UCL (still ongoing, updates to come):
+Some projects I've done during my time at UCL (still ongoing, updates to come). The code is present, as well as either pdf reports, slides or documented Jupyter notebooks to explain what has been done:
 
-My Master's thesis will soon be uploaded. It is still being reviewed. Topic: "Super-resolution and modality synthesis for tumour-impaired brain MRI scans from the Africa brain archive".
+- My Master's thesis will soon be uploaded. It is still being reviewed. Topic: "Super-resolution and modality synthesis for tumour-impaired brain MRI scans from the Africa brain archive".
 
 - COMP0169 Machine Learning for Visual Computing: coding a neural network from scratch, using linear and non-linear classifiers, building with Pytorch autoencoders and VAE using in particular convolutional layers
 
