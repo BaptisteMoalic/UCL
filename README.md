@@ -1,5 +1,7 @@
 Some projects I've done during my time at UCL (still ongoing, updates to come):
 
+My Master's thesis will soon be uploaded. It is still being reviewed. Topic: "Super-resolution and modality synthesis for tumour-impaired brain MRI scans from the Africa brain archive".
+
 - COMP0169 Machine Learning for Visual Computing: coding a neural network from scratch, using linear and non-linear classifiers, building with Pytorch autoencoders and VAE using in particular convolutional layers
 
 - COMP0026 Image Processing: implementing segmentation algorithms (K-means, tresholding), a coding a method for warping two images (rigid transform with a triangulation, and meshless), and implementing Poisson image editing (from "Poisson Image Editing", Pérez et al., SIGGRAPH 2003) for image interpolation (seamless cloning, mixing gradients, and texture flattening).
@@ -15,5 +17,3 @@ Some projects I've done during my time at UCL (still ongoing, updates to come):
 - (Not appearing) COMP0130 Robot Vision and Navigation: creating scripts for GNSS and Dead Reckoning position estimation, modifying existing code from the drivebot and g2o libraries, and ORB-SLAM2 to experiment and assess the performance of each algorithm's parameter.
 
 - (Not appearing) COMP0027 Computer Graphics: creating simple scenes in GLSL. BRDF textures, anti-aliasing, ray-tracing, rasterisation, the rendering equations
-
-- (Not appearing) COMP0122 MSc CGVI thesis: working on a summer project "Image Quality Transfer for the Africa brain image archive" (assessing and modifying the software SynthSR for new data, especially data containing brain lesions; experimenting with brain segmentation, super-resolution/IQT)
