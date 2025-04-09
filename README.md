@@ -1,4 +1,4 @@
-Some projects I've done during my time at UCL (still ongoing, updates to come). The code is present, as well as either pdf reports, slides or documented Jupyter notebooks to explain what has been done:
+Some projects I've done during my time at UCL. The code is present, as well as either pdf reports, slides or documented Jupyter notebooks to explain what has been done:
 
 - My Master's thesis can be made available on demand, do not hesitate to contact me. Topic: "Super-resolution and modality synthesis for tumour-impaired brain MRI scans from the Africa brain archive".
 
